@@ -8,3 +8,6 @@ for i in range(5):
 
 for i in b:
     print(i)
+
+for key, value in c.items():
+    print(key, value)
